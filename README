@@ -1,0 +1,6 @@
+IPC is a framework/plugin for implementing Inter-Plugin Communication
+within the Bukkit Minecraft server plugin system.
+
+Example code:
+https://gist.github.com/789430
+https://gist.github.com/789432
