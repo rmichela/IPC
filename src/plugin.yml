@@ -1,0 +1,3 @@
+name: IPC
+main: bukkit.deltahat.IPC.IPC
+version: 1
